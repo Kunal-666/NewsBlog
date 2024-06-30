@@ -1,6 +1,7 @@
 # TheHeadlinePost
 
 TheHeadlinePost is a content management system (CMS) created by [Kunal Gupta](https://facebook.com/Kunal) with the massive support and involvement of the community. To get started, check out <http://localhost>!
+*admin*:*username=password*=**admin**
 
 ## Table of Contents
 
